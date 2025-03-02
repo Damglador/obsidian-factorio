@@ -16,33 +16,15 @@
                 "file": "lavaland/factorio schemes lavaland.canvas",
                 "viewState": {
                   "x": -3131,
-                  "y": -912.804873646209,
+                  "y": -715.4064981949455,
                   "zoom": -0.08580749542123722
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "factorio schemes lavaland"
             }
-          },
-          {
-            "id": "a8d3c45c44ac8028",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "lavaland/factorio schemes lavaland.canvas",
-                "viewState": {
-                  "x": -3131,
-                  "y": -1001.2075471698113,
-                  "zoom": -0.5041006679710256
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "factorio schemes lavaland"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,7 +173,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a8d3c45c44ac8028",
+  "active": "85d7bf41f8d5200a",
   "lastOpenFiles": [
     "Без назви 1.md",
     "lavaland/factorio schemes lavaland.canvas",
