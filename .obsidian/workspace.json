@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Вітаємо"
             }
+          },
+          {
+            "id": "b83513b793face44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Вітаємо.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Вітаємо"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,11 +199,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b2681a012586132a",
+  "active": "b83513b793face44",
   "lastOpenFiles": [
     "Без назви.md",
-    "Без назви.canvas",
+    "Без назви 1.md",
     "Вітаємо.md",
+    "Без назви.canvas",
     "Архів.zip",
     "Архів.zip.f2pgjt.part",
     "Архів.zip.w94f7c.part",
