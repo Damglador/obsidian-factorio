@@ -143,7 +143,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lavaland/factorio schemes lavaland.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Зворотні посилання для factorio schemes lavaland"
+              "title": "Зворотні посилання"
             }
           },
           {
@@ -162,12 +161,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lavaland/factorio schemes lavaland.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Вихідні посилання з factorio schemes lavaland"
+              "title": "Вихідні посилання"
             }
           },
           {
@@ -191,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lavaland/factorio schemes lavaland.canvas",
+                "file": "Без назви.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Вміст factorio schemes lavaland"
+              "title": "Вміст Без назви"
             }
           }
         ]
@@ -220,13 +218,13 @@
       "cicada-sync:CI-SYNC": false
     }
   },
-  "active": "8493acd628ce616e",
+  "active": "b5eb2725fd2403ab",
   "lastOpenFiles": [
+    "Без назви.md",
+    "lavaland/factorio schemes lavaland.canvas",
     "lavaland/lavaland.md",
     "Meth.md",
-    "Без назви.md",
     "Без назви.canvas",
-    "lavaland/factorio schemes lavaland.canvas",
     "Без назви 1.md",
     "Math.md",
     "Вітаємо.md",
