@@ -205,11 +205,17 @@
   },
   "active": "0423f49081e88a0c",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Без назви.canvas",
     "Meth.md",
     "lavaland/factorio schemes lavaland.canvas",
     "lavaland/lavaland.md",
     "Без назви 1.md",
+=======
+    "lavaland/lavaland.md",
+    "lavaland/factorio schemes lavaland.canvas",
+    "Meth.md",
+>>>>>>> 050e610 (Parasite 2025-3-2:23:38:19)
     "Без назви.md",
     "Math.md",
     "Вітаємо.md",
