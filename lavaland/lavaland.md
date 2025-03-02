@@ -11,7 +11,7 @@ red_green = 2
 red_time = 6
 
 blue_time = 10
-
+b
 ```
 
 Зелені:
