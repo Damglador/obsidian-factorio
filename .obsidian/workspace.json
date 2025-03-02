@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Зворотні посилання для Meth"
+              "title": "Зворотні посилання"
             }
           },
           {
@@ -113,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Вихідні посилання з Meth"
+              "title": "Вихідні посилання"
             }
           },
           {
@@ -142,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meth.md",
+                "file": "Без назви.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Вміст Meth"
+              "title": "Вміст Без назви"
             }
           }
         ]
@@ -173,10 +171,10 @@
   },
   "active": "b5eb2725fd2403ab",
   "lastOpenFiles": [
-    "lavaland/factorio schemes lavaland.canvas",
     "Без назви.md",
-    "lavaland/lavaland.md",
     "Meth.md",
+    "lavaland/factorio schemes lavaland.canvas",
+    "lavaland/lavaland.md",
     "Без назви.canvas",
     "Без назви 1.md",
     "Math.md",
