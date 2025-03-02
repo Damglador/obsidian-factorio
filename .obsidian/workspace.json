@@ -15,9 +15,9 @@
               "state": {
                 "file": "lavaland/factorio schemes lavaland.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": -1.3333333333333333
+                  "x": -1308.7661285422146,
+                  "y": -546.3271328082095,
+                  "zoom": -0.6666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -173,11 +173,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b5eb2725fd2403ab",
+  "active": "fb2ad37479ce7c8a",
   "lastOpenFiles": [
+    "Вітаємо.md",
     "lavaland/factorio schemes lavaland.canvas",
     "lavaland",
-    "Вітаємо.md",
     "asdfasdfgasd",
     "LICENSE",
     "Виробництво плат.ods"
