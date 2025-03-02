@@ -8,7 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fb2ad37479ce7c8a",
+            "id": "80c17d4e036e3bbd",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "lavaland/factorio schemes lavaland.canvas",
+                "viewState": {
+                  "x": -970,
+                  "y": -190,
+                  "zoom": -1.116129872957368
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "factorio schemes lavaland"
+            }
+          },
+          {
+            "id": "0174174d482451c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +38,8 @@
               "title": "Meth"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вітаємо.md",
+                "file": "Meth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Зворотні посилання для Вітаємо"
+              "title": "Зворотні посилання для Meth"
             }
           },
           {
@@ -113,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Вітаємо.md",
+                "file": "Meth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Вихідні посилання з Вітаємо"
+              "title": "Вихідні посилання з Meth"
             }
           },
           {
@@ -142,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Вітаємо.md",
+                "file": "Meth.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Вміст Вітаємо"
+              "title": "Вміст Meth"
             }
           }
         ]
@@ -170,13 +188,20 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b5eb2725fd2403ab",
+  "active": "0174174d482451c0",
   "lastOpenFiles": [
-    "lavaland/factorio schemes lavaland.canvas",
+    "Math.md",
     "Meth.md",
+    "lavaland/factorio schemes lavaland.canvas",
+    "Без назви 1.md",
+    "Без назви.md",
     "Вітаємо.md",
     "lavaland",
-    "asdfasdfgasd",
+    "Без назви 2.md",
+    "Без назви.canvas",
+    "Архів.zip",
+    "Архів.zip.f2pgjt.part",
+    "Архів.zip.w94f7c.part",
     "LICENSE",
     "Виробництво плат.ods"
   ]
