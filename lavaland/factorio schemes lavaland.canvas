@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"a1a82abf2a8c8563","type":"group","x":-1640,"y":-640,"width":700,"height":900,"label":"оптимал"},
+		{"id":"8af8a941f7c25626","type":"text","text":"1 ливарня жовта жижа\n","x":-1381,"y":-620,"width":176,"height":60},
+		{"id":"c85db049fabc3081","type":"text","text":"1 структура малої щільності \n5 пластику \n80 сіра жижа\n250 жовта жижа \n","x":-1143,"y":-310,"width":183,"height":260},
+		{"id":"13194ee2188f9a2d","type":"text","text":"1 структура малої щільності \n5 пластику \n80 сіра жижа\n250 жовта жижа \n","x":-1143,"y":-20,"width":183,"height":260},
+		{"id":"7b61995d77a05ba5","type":"text","text":"1 структура малої щільності \n5 пластику \n80 сіра жижа\n250 жовта жижа \n","x":-1143,"y":-620,"width":183,"height":260},
+		{"id":"d7142f9d7500915e","type":"text","text":"1 ливарня жовта жижа\n","x":-1381,"y":-310,"width":176,"height":60},
+		{"id":"22351283df892ce9","type":"text","text":"1 ливарня жовта жижа\n","x":-1381,"y":-20,"width":176,"height":60},
+		{"id":"e1e059621c62c578","type":"text","text":"ливарня сірої жижі\n","x":-1620,"y":-210,"width":176,"height":60},
+		{"id":"b0a2a87c212fe0ff","type":"text","text":"0eNq9W11u2zgQvkrAZ6ngz5AifZWiKBxbTYWVJVeS2waBHwr0DD3HvhQLLLZ3sG+0cos2dsOph5zdviUB/c1wfj4PPzIP4rbd1duh6SaxeBDNqu9GsXj+IMbmrlu2p791y00tFuJVv+vWw73YF6Lp1vV7sVD7F4Wou6mZmvrbh77+cv+y221u62FeUHz/8LbZ1qIQ236cF/fdCXYG0EY9s4W4F4vSyWd2vy+eQOgECBWHMMXPW4igwIUjhVg3Q736tgIKMf98sr4Qm76d6q5shr4rXw39pmyXb5fi+4KXb3bLdjY9L+z6YTOHL+IOXN1RdW1HNgECiav7AVG/3w71OJbTsOzGbT9M5W3dThFQezVZFT1Z1schfAJEiEMEenQwCCUTMJCdqMvqL6e+vBtOBRhD8xdoF+WndAxc08HB4OAQw35smLbv7srXy7nd12XTjfUwzQsiFkKq+8ApPzRrloWK5TGnVSQeEB+zkdI5FeLn9dZ5LASHYIQEDMQPfb139FWMlN6Bi11dLz6t0xNqLG4k1kP6sYdud+0fv2qeM2gsGhndYhzucKwCdUbvnHEgMfIuIa3V1bBUWQRLy58nDA3gLlxEh4bVcpyamUjb/l25rrsZ5L4cp2G3mnZDnTY86ECuqzNSJm3ZSBZ7IkkyioWK8JTRLE4mdYQxLBsVyQYk8C0gsbAJGBbBcFl8C6SuNxWLb7FtexYpAik9gWXDUmyAZBEvklBQqTPcGSYtraDpX3Eej0mMisBkMTuQsIHC7OoXDj89Dq767bYesg+EvLEVqwDWCQ/rOqhYpEjqOvAsG7SuCwkV9kifBjmPSxbDYaiKhaoRVM3iNE2JrjUsG4ZkI0FHQWNhs+ZRmn8ui8M0iXttlXX81xSCtJ5x/Ce6H1jchPSL4w2wSI04xWIjUr843jhLqkdnshhPkbBTxlhMkLRZI6gkFZxzLCpFZFjHG2yxQHjG6EYMB2+ulZSaqCTLBqnuKpXF30g6K53F2JJCqpVJ0xPUb9ITKsjRE2hb5o21WJJ4Yy12ccEba2kNwRtraQ2RoN8CdgMjEzAQJd5n6bdAuzzwLP0WddmwULFgsqRbIF0eeMuyEUg2HEeleGojntgqQ1F4ih0jI+9zuB1I92U+JCkKEYf/a0UhsCZhrEMCS8rFOiSwZl9ahwSWlEvrkAA58zUgsnmwLDbCUFljMCBifKhY/EMS4wNL7QWSGB8SHg5gsVBS5oykNAeVzHpSALTLOSWz3hQA6XJJScajAvIGWK8KsKZRkjXI4pXCeldAaxslWYMttSx9FvVZGnjKSAvYUxyZNY/SLkKUYgm1YDGneXMuGguTry+QI8Ibe0nXBErx5l5a+aksGRdIV1Hq7NkPRRUA+5tUAXX2loguC1A3HViURKsNLVlGaLWhVQI1IfKy0joBxGAgJovfNPGtIbCICHWaN+OiAXUsWtC01PNmXkMz4lmHbkPMbsg5dRvaS1KZxZ6aBq7Szt3mfz93K8P7ykY0T2V42pTEYHnf0hFF8kUhmqnenErpx38VFKJdzmDz344fD38e/r45/HP8dHP8dPhyc/jr8Pnm8Pn44fhhXva2HsavONbpACFYa5UHB/v9v06QyBc=","x":-840,"y":-305,"width":540,"height":190}
+	],
+	"edges":[
+		{"id":"028f82b256814a01","fromNode":"a1a82abf2a8c8563","fromSide":"right","toNode":"b0a2a87c212fe0ff","toSide":"left"},
+		{"id":"6bc0528f54c170eb","fromNode":"8af8a941f7c25626","fromSide":"right","toNode":"7b61995d77a05ba5","toSide":"left"},
+		{"id":"c0a60148ee7adb4e","fromNode":"d7142f9d7500915e","fromSide":"right","toNode":"c85db049fabc3081","toSide":"left"},
+		{"id":"7494867115f9dbe8","fromNode":"e1e059621c62c578","fromSide":"right","toNode":"c85db049fabc3081","toSide":"left"},
+		{"id":"d3d78970d9ac70f4","fromNode":"22351283df892ce9","fromSide":"right","toNode":"13194ee2188f9a2d","toSide":"left"},
+		{"id":"0e0bcc28979559ad","fromNode":"e1e059621c62c578","fromSide":"right","toNode":"13194ee2188f9a2d","toSide":"left"},
+		{"id":"964647359654f8cc","fromNode":"e1e059621c62c578","fromSide":"right","toNode":"7b61995d77a05ba5","toSide":"left"}
+	]
+}
