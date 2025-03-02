@@ -4,42 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2ec41d20c173923f",
+        "id": "7cbc0515ab439fec",
         "type": "tabs",
         "children": [
           {
-            "id": "8493acd628ce616e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "lavaland/factorio schemes lavaland.canvas",
-                "viewState": {
-                  "x": -4729.976865367761,
-                  "y": -739.9672150638896,
-                  "zoom": -1.7999999999999998
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "factorio schemes lavaland"
-            }
-          },
-          {
-            "id": "077310fc5f741135",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Без назви.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Без назви"
-            }
-          },
-          {
-            "id": "32c33275d70a3ba3",
+            "id": "18ad4c6ff02a61bd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -48,8 +17,7 @@
               "title": "Нова вкладка"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,9 +164,10 @@
       "cicada-sync:CI-SYNC": false
     }
   },
-  "active": "32c33275d70a3ba3",
+  "active": "18ad4c6ff02a61bd",
   "lastOpenFiles": [
     "lavaland/factorio schemes lavaland.canvas",
+    "lavaland/factorio schemes lavaland.canvas.part",
     "Без назви 1.md",
     "Без назви.md",
     "Meth.md",
