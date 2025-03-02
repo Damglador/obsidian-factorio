@@ -15,9 +15,9 @@
               "state": {
                 "file": "lavaland/factorio schemes lavaland.canvas",
                 "viewState": {
-                  "x": -3151,
-                  "y": -1279.066037735849,
-                  "zoom": -0.8189740053244376
+                  "x": -3098.3047416808045,
+                  "y": -979.6689960919655,
+                  "zoom": -0.15230733865777102
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -176,8 +176,8 @@
   "active": "bb3dd2e9c6ed3a8a",
   "lastOpenFiles": [
     "lavaland/lavaland.md",
-    "Без назви.md",
     "lavaland/factorio schemes lavaland.canvas",
+    "Без назви.md",
     "Meth.md",
     "Без назви 1.md",
     "Без назви 2.md",
