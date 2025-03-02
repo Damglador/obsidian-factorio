@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fb80d493300c4a51",
+        "id": "2ec41d20c173923f",
         "type": "tabs",
         "children": [
           {
-            "id": "bb3dd2e9c6ed3a8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meth.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Meth"
-            }
-          },
-          {
-            "id": "8b190dcc65408aa6",
+            "id": "8493acd628ce616e",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -30,16 +16,15 @@
                 "file": "lavaland/factorio schemes lavaland.canvas",
                 "viewState": {
                   "x": -3151,
-                  "y": -979.7735849056603,
-                  "zoom": -0.5388660861317022
+                  "y": -681.8739411764705,
+                  "zoom": -1.762911550189501
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "factorio schemes lavaland"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вітаємо.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Зворотні посилання для Вітаємо"
+              "title": "Зворотні посилання"
             }
           },
           {
@@ -131,12 +115,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Вітаємо.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Вихідні посилання з Вітаємо"
+              "title": "Вихідні посилання"
             }
           },
           {
@@ -160,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Вітаємо.md",
+                "file": "Без назви.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Вміст Вітаємо"
+              "title": "Вміст Без назви"
             }
           }
         ]
@@ -185,20 +168,25 @@
       "templates:Вставити шаблон": false,
       "command-palette:Відкрити меню команд": false,
       "obsidian42-brat:BRAT": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "cicada-sync:CI-SYNC": false
     }
   },
-  "active": "8b190dcc65408aa6",
+  "active": "b5eb2725fd2403ab",
   "lastOpenFiles": [
-    "lavaland/lavaland.md",
     "Без назви.md",
-    "Meth.md",
-    "lavaland/factorio schemes lavaland.canvas",
     "Без назви 1.md",
-    "Без назви 2.md",
+    "lavaland/factorio schemes lavaland.canvas",
+    "lavaland/lavaland.md",
+    "Meth.md",
+    "Без назви.canvas",
+    "Math.md",
     "Вітаємо.md",
     "lavaland",
-    "asdfasdfgasd",
+    "Без назви 2.md",
+    "Архів.zip",
+    "Архів.zip.f2pgjt.part",
+    "Архів.zip.w94f7c.part",
     "LICENSE",
     "Виробництво плат.ods"
   ]
