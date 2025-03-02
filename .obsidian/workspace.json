@@ -11,14 +11,17 @@
             "id": "8493acd628ce616e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Meth.md",
-                "mode": "source",
-                "source": false
+                "file": "lavaland/factorio schemes lavaland.canvas",
+                "viewState": {
+                  "x": -3151,
+                  "y": -681.8739411764705,
+                  "zoom": -1.762911550189501
+                }
               },
-              "icon": "lucide-file",
-              "title": "Meth"
+              "icon": "lucide-layout-dashboard",
+              "title": "factorio schemes lavaland"
             }
           }
         ]
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meth.md",
+                "file": "lavaland/factorio schemes lavaland.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Зворотні посилання для Meth"
+              "title": "Зворотні посилання для factorio schemes lavaland"
             }
           },
           {
@@ -113,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meth.md",
+                "file": "lavaland/factorio schemes lavaland.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Вихідні посилання з Meth"
+              "title": "Вихідні посилання з factorio schemes lavaland"
             }
           },
           {
@@ -142,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meth.md",
+                "file": "lavaland/factorio schemes lavaland.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Вміст Meth"
+              "title": "Вміст factorio schemes lavaland"
             }
           }
         ]
@@ -173,11 +176,11 @@
   },
   "active": "8493acd628ce616e",
   "lastOpenFiles": [
+    "lavaland/lavaland.md",
+    "Meth.md",
     "Без назви 1.md",
     "Без назви.md",
     "lavaland/factorio schemes lavaland.canvas",
-    "lavaland/lavaland.md",
-    "Meth.md",
     "Без назви.canvas",
     "Math.md",
     "Вітаємо.md",
