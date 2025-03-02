@@ -4,7 +4,6 @@
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
         "id": "2ec41d20c173923f",
         "type": "tabs",
         "children": [
@@ -27,13 +26,6 @@
           },
           {
             "id": "077310fc5f741135",
-=======
-        "id": "7ef6232ac8a76858",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "30f32ed15f8c0d6d",
->>>>>>> 8ef5c9311d9f13d4d51ae762182ed36631ee02f3
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -120,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Зворотні посилання для Meth"
+              "title": "Зворотні посилання"
             }
           },
           {
@@ -139,12 +130,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Вихідні посилання з Meth"
+              "title": "Вихідні посилання"
             }
           },
           {
@@ -168,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meth.md",
+                "file": "Без назви 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Вміст Meth"
+              "title": "Вміст Без назви 1"
             }
           }
         ]
@@ -197,17 +187,13 @@
       "cicada-sync:CI-SYNC": false
     }
   },
-<<<<<<< HEAD
-  "active": "077310fc5f741135",
-=======
-  "active": "30f32ed15f8c0d6d",
->>>>>>> 8ef5c9311d9f13d4d51ae762182ed36631ee02f3
+  "active": "b5eb2725fd2403ab",
   "lastOpenFiles": [
     "lavaland/factorio schemes lavaland.canvas",
+    "Без назви 1.md",
+    "Meth.md",
     "lavaland/lavaland.md",
     "Без назви.md",
-    "Meth.md",
-    "Без назви 1.md",
     "Без назви.canvas",
     "Math.md",
     "Вітаємо.md",
