@@ -20,8 +20,26 @@
               "icon": "lucide-file",
               "title": "Meth"
             }
+          },
+          {
+            "id": "8b190dcc65408aa6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "lavaland/factorio schemes lavaland.canvas",
+                "viewState": {
+                  "x": -3151,
+                  "y": -979.7735849056603,
+                  "zoom": -0.5388660861317022
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "factorio schemes lavaland"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,12 +188,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "bb3dd2e9c6ed3a8a",
+  "active": "8b190dcc65408aa6",
   "lastOpenFiles": [
-    "lavaland/factorio schemes lavaland.canvas",
     "lavaland/lavaland.md",
-    "Meth.md",
     "Без назви.md",
+    "Meth.md",
+    "lavaland/factorio schemes lavaland.canvas",
     "Без назви 1.md",
     "Без назви 2.md",
     "Вітаємо.md",
