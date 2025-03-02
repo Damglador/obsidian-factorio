@@ -8,7 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fb2ad37479ce7c8a",
+            "id": "80c17d4e036e3bbd",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "lavaland/factorio schemes lavaland.canvas",
+                "viewState": {
+                  "x": -970,
+                  "y": -190,
+                  "zoom": -1.116129872957368
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "factorio schemes lavaland"
+            }
+          },
+          {
+            "id": "0174174d482451c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,21 +39,7 @@
             }
           },
           {
-            "id": "a4ef0e6f4c37dc0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lavaland/lavaland.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "lavaland"
-            }
-          },
-          {
-            "id": "11d859c6bba94c22",
+            "id": "07d5dcce2734b96c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,24 +50,10 @@
               },
               "icon": "lucide-file",
               "title": "Meth"
-            }
-          },
-          {
-            "id": "fa243ca74ffe3805",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lavaland/lavaland.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "lavaland"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вітаємо.md",
+                "file": "Meth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Зворотні посилання для Вітаємо"
+              "title": "Зворотні посилання для Meth"
             }
           },
           {
@@ -156,12 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Вітаємо.md",
+                "file": "Meth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Вихідні посилання з Вітаємо"
+              "title": "Вихідні посилання з Meth"
             }
           },
           {
@@ -185,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Вітаємо.md",
+                "file": "Meth.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Вміст Вітаємо"
+              "title": "Вміст Meth"
             }
           }
         ]
@@ -213,17 +202,21 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "fa243ca74ffe3805",
+  "active": "07d5dcce2734b96c",
   "lastOpenFiles": [
-    "Meth.md",
-    "Без назви.md",
-    "Без назви 1.md",
-    "Без назви 2.md",
-    "lavaland/lavaland.md",
     "lavaland/factorio schemes lavaland.canvas",
+    "Meth.md",
+    "lavaland/lavaland.md",
+    "Без назви.md",
+    "Math.md",
+    "Без назви 1.md",
     "Вітаємо.md",
     "lavaland",
-    "asdfasdfgasd",
+    "Без назви 2.md",
+    "Без назви.canvas",
+    "Архів.zip",
+    "Архів.zip.f2pgjt.part",
+    "Архів.zip.w94f7c.part",
     "LICENSE",
     "Виробництво плат.ods"
   ]
