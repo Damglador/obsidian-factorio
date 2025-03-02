@@ -28,3 +28,4 @@ full_lava_to_plate = lava_to_metal/lava_to_metal_to_plate
 Червоні 2
 кислота 5 од
 
+ливарня жижі до ливарні плат 5 до 12 = 24 на 3,2 секунди 
