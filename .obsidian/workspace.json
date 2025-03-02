@@ -11,17 +11,14 @@
             "id": "fb2ad37479ce7c8a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Без назви.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Вітаємо.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Без назви"
+              "icon": "lucide-file",
+              "title": "Вітаємо"
             }
           }
         ]
@@ -175,8 +172,8 @@
   },
   "active": "fb2ad37479ce7c8a",
   "lastOpenFiles": [
-    "Вітаємо.md",
     "Без назви.canvas",
+    "Вітаємо.md",
     "asdfasdfgasd",
     "LICENSE",
     "Виробництво плат.ods"
