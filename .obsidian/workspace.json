@@ -11,17 +11,14 @@
             "id": "bb3dd2e9c6ed3a8a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "lavaland/factorio schemes lavaland.canvas",
-                "viewState": {
-                  "x": -3098.3047416808045,
-                  "y": -979.6689960919655,
-                  "zoom": -0.15230733865777102
-                }
+                "file": "lavaland/lavaland.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "factorio schemes lavaland"
+              "icon": "lucide-file",
+              "title": "lavaland"
             }
           }
         ]
@@ -175,8 +172,8 @@
   },
   "active": "bb3dd2e9c6ed3a8a",
   "lastOpenFiles": [
-    "lavaland/lavaland.md",
     "lavaland/factorio schemes lavaland.canvas",
+    "lavaland/lavaland.md",
     "Без назви.md",
     "Meth.md",
     "Без назви 1.md",
