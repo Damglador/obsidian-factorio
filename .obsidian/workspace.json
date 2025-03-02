@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7cbc0515ab439fec",
+        "id": "81b23c6f18d9e957",
         "type": "tabs",
         "children": [
           {
-            "id": "18ad4c6ff02a61bd",
+            "id": "83c459c3352291bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Meth.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Нова вкладка"
+              "title": "Meth"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Meth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Зворотні посилання"
+              "title": "Зворотні посилання для Meth"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Meth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Вихідні посилання"
+              "title": "Вихідні посилання з Meth"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Meth.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Вміст"
+              "title": "Вміст Meth"
             }
           }
         ]
@@ -164,7 +171,7 @@
       "cicada-sync:CI-SYNC": false
     }
   },
-  "active": "18ad4c6ff02a61bd",
+  "active": "83c459c3352291bc",
   "lastOpenFiles": [
     "lavaland/factorio schemes lavaland.canvas",
     "lavaland/factorio schemes lavaland.canvas.part",
