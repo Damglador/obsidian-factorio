@@ -8,63 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fb2ad37479ce7c8a",
+            "id": "80c17d4e036e3bbd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Вітаємо.md",
-                "mode": "source",
-                "source": false
+                "file": "lavaland/factorio schemes lavaland.canvas",
+                "viewState": {
+                  "x": -970,
+                  "y": -190,
+                  "zoom": -1.116129872957368
+                }
               },
-              "icon": "lucide-file",
-              "title": "Вітаємо"
+              "icon": "lucide-layout-dashboard",
+              "title": "factorio schemes lavaland"
             }
           },
           {
-            "id": "b2681a012586132a",
+            "id": "0174174d482451c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вітаємо.md",
+                "file": "Математика плат.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вітаємо"
-            }
-          },
-          {
-            "id": "b83513b793face44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Вітаємо.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Вітаємо"
-            }
-          },
-          {
-            "id": "051fd71aee721920",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Вітаємо.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Вітаємо"
+              "title": "Математика плат"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вітаємо.md",
+                "file": "Математика плат.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Зворотні посилання для Вітаємо"
+              "title": "Зворотні посилання для Математика плат"
             }
           },
           {
@@ -156,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Вітаємо.md",
+                "file": "Математика плат.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Вихідні посилання з Вітаємо"
+              "title": "Вихідні посилання з Математика плат"
             }
           },
           {
@@ -185,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Вітаємо.md",
+                "file": "Математика плат.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Вміст Вітаємо"
+              "title": "Вміст Математика плат"
             }
           }
         ]
@@ -213,10 +188,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "051fd71aee721920",
+  "active": "b5eb2725fd2403ab",
   "lastOpenFiles": [
-    "Без назви.md",
     "Вітаємо.md",
+    "Математика плат.md",
+    "lavaland/factorio schemes lavaland.canvas",
+    "lavaland",
     "Без назви 2.md",
     "Без назви 1.md",
     "Без назви.canvas",
