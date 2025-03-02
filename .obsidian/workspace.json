@@ -23,8 +23,26 @@
               "icon": "lucide-layout-dashboard",
               "title": "factorio schemes lavaland"
             }
+          },
+          {
+            "id": "a8d3c45c44ac8028",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "lavaland/factorio schemes lavaland.canvas",
+                "viewState": {
+                  "x": -3131,
+                  "y": -1396.8962264150944,
+                  "zoom": -0.5041006679710256
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "factorio schemes lavaland"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,13 +191,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "85d7bf41f8d5200a",
+  "active": "a8d3c45c44ac8028",
   "lastOpenFiles": [
-    "lavaland/lavaland.md",
+    "Без назви 1.md",
     "lavaland/factorio schemes lavaland.canvas",
+    "lavaland/lavaland.md",
     "Meth.md",
     "Без назви.md",
-    "Без назви 1.md",
     "Без назви 2.md",
     "Вітаємо.md",
     "lavaland",
