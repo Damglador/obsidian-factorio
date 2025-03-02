@@ -29,3 +29,5 @@ plastic = red_plastic*red
 copper = wire/0.5
 
 ```
+
+синій конвеєр подає = 45 предметів/с

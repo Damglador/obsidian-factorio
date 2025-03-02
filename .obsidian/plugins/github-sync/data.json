@@ -1,16 +1,6 @@
 {
   "remoteURL": "https://github.com/Damglador/obsidian-factorio",
   "gitLocation": "",
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "syncinterval": 5,
+  "syncinterval": 1,
   "isSyncOnLoad": true
-=======
-  "syncinterval": 0,
-  "isSyncOnLoad": false
->>>>>>> 4b94cf3f3c98a706282ef6e4951557c60261a4f4
-=======
-  "syncinterval": 3,
-  "isSyncOnLoad": true
->>>>>>> 9bde2de336c4a8a3a54e8f4bddf364df1e4d98ca
 }
