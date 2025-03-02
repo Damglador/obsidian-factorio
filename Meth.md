@@ -2,7 +2,7 @@
 ```math-tex
 
 # Blue
-blue = 20
+blue = 1
 blue_time = 10
 blue_green = 20/blue_time
 blue_red = 2/blue_time
