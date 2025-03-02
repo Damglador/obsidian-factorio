@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "95d4c864c3701521",
+        "id": "2ec41d20c173923f",
         "type": "tabs",
         "children": [
           {
-            "id": "c6b22391eb79c93e",
+            "id": "8493acd628ce616e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Meth.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Нова вкладка"
+              "title": "Meth"
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вітаємо.md",
+                "file": "Meth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Зворотні посилання для Вітаємо"
+              "title": "Зворотні посилання для Meth"
             }
           },
           {
@@ -109,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Вітаємо.md",
+                "file": "Meth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Вихідні посилання з Вітаємо"
+              "title": "Вихідні посилання з Meth"
             }
           },
           {
@@ -138,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Вітаємо.md",
+                "file": "Meth.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Вміст Вітаємо"
+              "title": "Вміст Meth"
             }
           }
         ]
@@ -163,20 +167,25 @@
       "templates:Вставити шаблон": false,
       "command-palette:Відкрити меню команд": false,
       "obsidian42-brat:BRAT": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "cicada-sync:CI-SYNC": false
     }
   },
-  "active": "c6b22391eb79c93e",
+  "active": "8493acd628ce616e",
   "lastOpenFiles": [
+    "Без назви 1.md",
+    "Без назви.md",
     "lavaland/factorio schemes lavaland.canvas",
     "lavaland/lavaland.md",
-    "Без назви.md",
-    "Без назви 1.md",
     "Meth.md",
-    "Без назви 2.md",
+    "Без назви.canvas",
+    "Math.md",
     "Вітаємо.md",
     "lavaland",
-    "asdfasdfgasd",
+    "Без назви 2.md",
+    "Архів.zip",
+    "Архів.zip.f2pgjt.part",
+    "Архів.zip.w94f7c.part",
     "LICENSE",
     "Виробництво плат.ods"
   ]
