@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Meth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Зворотні посилання"
+              "title": "Зворотні посилання для Meth"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Meth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Вихідні посилання"
+              "title": "Вихідні посилання з Meth"
             }
           },
           {
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без назви.md",
+                "file": "Meth.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Вміст Без назви"
+              "title": "Вміст Meth"
             }
           }
         ]
@@ -169,7 +171,7 @@
       "cicada-sync:CI-SYNC": false
     }
   },
-  "active": "b5eb2725fd2403ab",
+  "active": "8493acd628ce616e",
   "lastOpenFiles": [
     "Без назви.md",
     "Meth.md",
