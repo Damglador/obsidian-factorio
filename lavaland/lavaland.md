@@ -1,17 +1,14 @@
 
 ```math-tex
-green_wire = 3
-green_plate = 1
-green_time = 0.5
+lava_to_metal = 250
+time_lava_to_metal = 16
+lava_to_metal_to_plate = 20
+time_lava_to_metal_to_plate = 3.2
 
 
-red_wire = 4
-red_plast = 2
-red_green = 2
-red_time = 6
 
-blue_time = 10
-b
+full_lava_to_plate = lava_to_metal/lava_to_metal_to_plate
+
 ```
 
 Зелені:
