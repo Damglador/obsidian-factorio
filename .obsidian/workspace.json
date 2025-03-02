@@ -28,14 +28,10 @@
             "id": "077310fc5f741135",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meth.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Meth"
+              "title": "Нова вкладка"
             }
           }
         ],
@@ -158,13 +154,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без назви 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Вміст Без назви 1"
+              "title": "Вміст"
             }
           }
         ]
@@ -187,7 +182,7 @@
       "cicada-sync:CI-SYNC": false
     }
   },
-  "active": "b5eb2725fd2403ab",
+  "active": "077310fc5f741135",
   "lastOpenFiles": [
     "lavaland/factorio schemes lavaland.canvas",
     "Без назви 1.md",
