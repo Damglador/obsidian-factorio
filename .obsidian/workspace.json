@@ -165,9 +165,7 @@
       "canvas:Створити нове полотно": false,
       "daily-notes:Сьогоднішня нотатка": false,
       "templates:Вставити шаблон": false,
-      "command-palette:Відкрити меню команд": false,
-      "obsidian42-brat:BRAT": false,
-      "github-sync:Sync with Remote": false
+      "command-palette:Відкрити меню команд": false
     }
   },
   "active": "fb2ad37479ce7c8a",
