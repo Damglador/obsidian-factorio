@@ -4,6 +4,7 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "2ec41d20c173923f",
         "type": "tabs",
         "children": [
@@ -26,6 +27,13 @@
           },
           {
             "id": "077310fc5f741135",
+=======
+        "id": "7ef6232ac8a76858",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30f32ed15f8c0d6d",
+>>>>>>> 8ef5c9311d9f13d4d51ae762182ed36631ee02f3
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -189,7 +197,11 @@
       "cicada-sync:CI-SYNC": false
     }
   },
+<<<<<<< HEAD
   "active": "077310fc5f741135",
+=======
+  "active": "30f32ed15f8c0d6d",
+>>>>>>> 8ef5c9311d9f13d4d51ae762182ed36631ee02f3
   "lastOpenFiles": [
     "lavaland/factorio schemes lavaland.canvas",
     "lavaland/lavaland.md",
