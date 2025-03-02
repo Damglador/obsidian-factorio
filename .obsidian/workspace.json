@@ -11,14 +11,17 @@
             "id": "fb2ad37479ce7c8a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Вітаємо.md",
-                "mode": "source",
-                "source": false
+                "file": "Без назви.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Вітаємо"
+              "icon": "lucide-layout-dashboard",
+              "title": "Без назви"
             }
           }
         ]
@@ -165,13 +168,17 @@
       "canvas:Створити нове полотно": false,
       "daily-notes:Сьогоднішня нотатка": false,
       "templates:Вставити шаблон": false,
-      "command-palette:Відкрити меню команд": false
+      "command-palette:Відкрити меню команд": false,
+      "obsidian42-brat:BRAT": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "fb2ad37479ce7c8a",
   "lastOpenFiles": [
+    "Вітаємо.md",
+    "Без назви.canvas",
+    "asdfasdfgasd",
     "LICENSE",
-    "Виробництво плат.ods",
-    "Вітаємо.md"
+    "Виробництво плат.ods"
   ]
 }
