@@ -4,27 +4,73 @@
     "type": "split",
     "children": [
       {
-        "id": "fb80d493300c4a51",
+        "id": "2ec41d20c173923f",
         "type": "tabs",
         "children": [
           {
-            "id": "bb3dd2e9c6ed3a8a",
+            "id": "07d5dcce2734b96c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meth.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Meth"
+            }
+          },
+          {
+            "id": "07af498b852582ff",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "lavaland/factorio schemes lavaland.canvas",
                 "viewState": {
-                  "x": -3151,
-                  "y": -1279.066037735849,
-                  "zoom": -0.8189740053244376
+                  "x": -3131,
+                  "y": -926.0421764705882,
+                  "zoom": -1.7901587253327238
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "factorio schemes lavaland"
+            }
+          },
+          {
+            "id": "0423f49081e88a0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meth.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Meth"
+            }
+          },
+          {
+            "id": "8493acd628ce616e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "lavaland/factorio schemes lavaland.canvas",
+                "viewState": {
+                  "x": -3815.9908216602166,
+                  "y": -614.1708000234049,
+                  "zoom": -0.5629115501895009
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "factorio schemes lavaland"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вітаємо.md",
+                "file": "lavaland/factorio schemes lavaland.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Зворотні посилання для Вітаємо"
+              "title": "Зворотні посилання для factorio schemes lavaland"
             }
           },
           {
@@ -116,12 +162,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Вітаємо.md",
+                "file": "lavaland/factorio schemes lavaland.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Вихідні посилання з Вітаємо"
+              "title": "Вихідні посилання з factorio schemes lavaland"
             }
           },
           {
@@ -145,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Вітаємо.md",
+                "file": "lavaland/factorio schemes lavaland.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Вміст Вітаємо"
+              "title": "Вміст factorio schemes lavaland"
             }
           }
         ]
@@ -170,20 +216,25 @@
       "templates:Вставити шаблон": false,
       "command-palette:Відкрити меню команд": false,
       "obsidian42-brat:BRAT": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "cicada-sync:CI-SYNC": false
     }
   },
-  "active": "bb3dd2e9c6ed3a8a",
+  "active": "8493acd628ce616e",
   "lastOpenFiles": [
-    "lavaland/lavaland.md",
     "Без назви.md",
     "lavaland/factorio schemes lavaland.canvas",
+    "lavaland/lavaland.md",
     "Meth.md",
+    "Без назви.canvas",
     "Без назви 1.md",
-    "Без назви 2.md",
+    "Math.md",
     "Вітаємо.md",
     "lavaland",
-    "asdfasdfgasd",
+    "Без назви 2.md",
+    "Архів.zip",
+    "Архів.zip.f2pgjt.part",
+    "Архів.zip.w94f7c.part",
     "LICENSE",
     "Виробництво плат.ods"
   ]
