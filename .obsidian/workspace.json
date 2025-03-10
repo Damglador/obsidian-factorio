@@ -11,10 +11,17 @@
             "id": "6277ffd4386b203d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Нова вкладка"
+              "type": "canvas",
+              "state": {
+                "file": "lavaland/factorio schemes lavaland.canvas",
+                "viewState": {
+                  "x": -3151,
+                  "y": -824.117924528302,
+                  "zoom": -0.5672107118256641
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "factorio schemes lavaland"
             }
           }
         ]
@@ -168,10 +175,12 @@
   },
   "active": "6277ffd4386b203d",
   "lastOpenFiles": [
-    "Meth.md",
-    "Без назви.md",
-    "lavaland/factorio schemes lavaland.canvas",
     "lavaland/lavaland.md",
+    "gitignore",
+    "Не підтверджено 372430.crdownload",
+    "Meth.md",
+    "lavaland/factorio schemes lavaland.canvas",
+    "Без назви.md",
     "Без назви 1.md",
     "Без назви 2.md",
     "Вітаємо.md",
