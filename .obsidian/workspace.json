@@ -28,14 +28,17 @@
             "id": "4dbb422c0b6bbee9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Без назви 1.md",
-                "mode": "source",
-                "source": false
+                "file": "FUCKING 5FINGERED SHITS/SCHEMES.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -93,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Без назви 1"
+              "icon": "lucide-layout-dashboard",
+              "title": "SCHEMES"
             }
           }
         ],
@@ -188,14 +191,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4dbb422c0b6bbee9",
+  "active": "b5eb2725fd2403ab",
   "lastOpenFiles": [
+    "Meth.md",
+    "FUCKING 5FINGERED SHITS/SCHEMES.canvas",
+    "FUCKING 5FINGERED SHITS",
     "Без назви 1.md",
     "lavaland/factorio schemes lavaland.canvas",
     "lavaland/lavaland.md",
     "gitignore",
     "Не підтверджено 372430.crdownload",
-    "Meth.md",
     "Без назви.md",
     "Без назви 2.md",
     "Вітаємо.md",
