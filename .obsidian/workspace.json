@@ -167,8 +167,7 @@
       "templates:Вставити шаблон": false,
       "command-palette:Відкрити меню команд": false,
       "obsidian42-brat:BRAT": false,
-      "github-sync:Sync with Remote": false,
-      "cicada-sync:CI-SYNC": false
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "83c459c3352291bc",
